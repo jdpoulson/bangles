@@ -1,0 +1,15 @@
+.sidebar {
+  width: 300px;
+  float: left;
+  background-color: green;
+}
+
+.image {
+  width: 300px;
+  float: left;
+}
+
+.main {
+  width: 300px;
+  float: left;
+}
